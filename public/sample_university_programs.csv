@@ -1,0 +1,4 @@
+Program Name,School,Tuition,Prerequisites,Predicted Grade Cutoff,Admission Range,Description,Co-Op status,Supp app requirement status,Logo URL
+Computer Science,University of Waterloo,"$9,000","ENG4U, MHF4U, MCV4U",93%+,90–98%,"Study computing theory, programming, and algorithms with optional Co-Op.",Yes,Yes,/schools/waterloo.png
+Commerce,Queen's University,"$17,000","ENG4U, one 4U Math",88%+,85–95%,Queen’s Commerce offers elite business education and global networking.,No,Yes,/schools/queens.png
+Engineering Science,University of Toronto,"$14,500","ENG4U, MHF4U, MCV4U, SPH4U, SCH4U",92%+,90–97%,A highly competitive and interdisciplinary engineering program at U of T.,No,Yes,/schools/uoft.png

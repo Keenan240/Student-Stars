@@ -1,0 +1,211 @@
+Program Name,School,Tuition,Prerequisites,Predicted Grade Cutoff,Admission Range,Description,Co-Op status,Supp app requirement status,Logo URL
+
+Computer Science,University of Waterloo,"$9,000","ENG4U, MHF4U, MCV4U",93%+,90–98%,"Study computing theory, programming, and algorithms with optional Co-Op.",Yes,Yes,/schools/waterloo.png
+Software Engineering,University of Waterloo,"$9,500","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",91%+,88–96%,"Focuses on large-scale software systems and engineering principles.",Yes,Yes,/schools/waterloo.png
+Accounting and Financial Management,University of Waterloo,"$9,000","ENG4U, MHF4U",90%+,87–94%,"Combines business, accounting, and finance with strong co-op opportunities.",Yes,Yes,/schools/waterloo.png
+Biomedical Engineering,University of Waterloo,"$9,500","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",90%+,87–93%,"Applies engineering principles to medical and biological problems.",Yes,Yes,/schools/waterloo.png
+Honours Arts,University of Waterloo,"$7,800","ENG4U",80%+,78–86%,"Flexible arts program with 28 majors to choose from.",No,No,/schools/waterloo.png
+Global Business and Digital Arts,University of Waterloo,"$8,200","ENG4U",85%+,82–90%,"Combines business, technology, and creativity for digital careers.",No,No,/schools/waterloo.png
+Architecture,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, one additional 4U math, two other 4U/M courses",85%+,Mid 80s to low 90s,"Emphasizes design, building technology, and cultural history.",Co-op Only,Yes (portfolio and interview),/schools/waterloo.png
+Gender and Social Justice,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explore the ways society is shaped by gender. Be an advocate for equity, justice, and positive change.",Optional,No,/schools/waterloo.png
+Geography and Aviation,University of Waterloo,"$8,000 - $9,000 (plus ~$93,000 flight training costs)","ENG4U and one Grade 12 U Mathematics course (minimum 70% each), plus four other Grade 12 U/M courses",Mid-80s,Low 80s,"Combine geography studies with flight training to earn a Commercial Pilot Licence.",Co-op Only,Yes (flight training requirements),/schools/waterloo.png
+Geography and Environmental Management,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Study environmental issues and management strategies through geography.",Optional,No,/schools/waterloo.png
+Geological Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U (minimum 70% each), plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Apply engineering principles to geological and environmental challenges.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Geomatics,University of Waterloo,"$8,000 - $9,000","ENG4U and one Grade 12 U Mathematics course (minimum 70% each), plus four other Grade 12 U/M courses",High 70s,Low 80s,"Use computer science and mapping technologies to analyze spatial data.",Optional,No,/schools/waterloo.png
+Actuarial Science,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",90%+,High 80s to low 90s,"Focuses on risk assessment and management using mathematics and statistics.",Optional,No,/schools/waterloo.png
+Anthropology,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies human societies, cultures, and their development.",Optional,No,/schools/waterloo.png
+Applied Mathematics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Applies mathematical methods to solve practical problems in science and engineering.",Optional,No,/schools/waterloo.png
+Architectural Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Combines architecture and engineering principles to design building systems.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Bachelor of Arts,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Offers a broad education in humanities, social sciences, and languages.",Optional,No,/schools/waterloo.png
+Bachelor of Science,University of Waterloo,"$8,000 - $9,000","ENG4U, two of MHF4U, MCV4U, SCH4U, SPH4U, SBI4U, plus three other Grade 12 U/M courses",Mid 80s,85–88%,"Provides foundational knowledge in various scientific disciplines.",Optional,No,/schools/waterloo.png
+Biochemistry,University of Waterloo,"$8,000 - $9,000","ENG4U, SCH4U, SBI4U, MHF4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Explores the chemical processes within and related to living organisms.",Optional,No,/schools/waterloo.png
+Biological and Medical Physics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Applies physics principles to biological systems and medical technologies.",Optional,No,/schools/waterloo.png
+Biology,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Studies living organisms, their structure, function, growth, and evolution.",Optional,No,/schools/waterloo.png
+Biomedical Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",High 80s,88–91%,"Focuses on the biological and physiological aspects of health and disease.",Optional,No,/schools/waterloo.png
+Biostatistics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Applies statistical methods to biological and health-related research.",Optional,No,/schools/waterloo.png
+Biotechnology/Chartered Professional Accountancy,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, SCH4U, SBI4U, plus two other Grade 12 U/M courses",High 80s,88–91%,"Combines biotechnology studies with accounting and business principles.",Co-op Only,Yes,/schools/waterloo.png
+Business Administration (Laurier) and Computer Science (Waterloo) Double Degree,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",90%+,High 80s to low 90s,"Offers a comprehensive education in business and computer science.",Co-op Only,Yes,/schools/waterloo.png
+Business Administration (Laurier) and Mathematics (Waterloo) Double Degree,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",90%+,High 80s to low 90s,"Combines mathematical theory with business applications.",Co-op Only,Yes,/schools/waterloo.png
+Chemical Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Focuses on the design and operation of chemical processes.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Chemistry,University of Waterloo,"$8,000 - $9,000","ENG4U, SCH4U, MHF4U, plus three other Grade 12 U/M courses",Mid 80s,85–88%,"Studies the composition, structure, properties, and changes of matter.",Optional,No,/schools/waterloo.png
+Civil Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Designs and constructs infrastructure like roads, bridges, and buildings.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Classical Studies,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores ancient Greek and Roman civilizations, languages, and literature.",Optional,No,/schools/waterloo.png
+Climate and Environmental Change,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies the science of climate systems and environmental transformations.",Optional,No,/schools/waterloo.png
+Combinatorics and Optimization,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Focuses on discrete mathematics and optimization techniques.",Optional,No,/schools/waterloo.png
+Communication Studies,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Analyzes human communication in various contexts and media.",Optional,No,/schools/waterloo.png
+Computational Mathematics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Applies numerical methods and algorithms to solve mathematical problems.",Optional,No,/schools/waterloo.png
+Computer Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Combines electrical engineering and computer science to develop hardware and software systems.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Computing and Financial Management,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",90%+,High 80s to low 90s,"Integrates computer science with financial analysis and management.",Co-op Only,Yes,/schools/waterloo.png
+Data Science,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",90%+,High 80s to low 90s,"Focuses on extracting insights from large and complex data sets.",Optional,No,/schools/waterloo.png
+Earth Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, SCH4U, SPH4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Studies the Earth's structure, composition, and processes.",Optional,No,/schools/waterloo.png
+Economics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Analyzes the production, distribution, and consumption of goods and services.",Optional,No,/schools/waterloo.png
+Education (Teaching),University of Waterloo,"$8,000 - $9,000","Completion of an undergraduate degree; additional requirements vary",N/A,N/A,"Prepares students for teaching careers through post-degree programs.",No,Yes,/schools/waterloo.png
+Electrical Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Designs and develops electrical systems and devices.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+English,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores literature, writing, and language studies.",Optional,No,/schools/waterloo.png
+Environment and Business,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Integrates environmental studies with business practices.",Co-op Only,No,/schools/waterloo.png
+Environment Resources and Sustainability,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Focuses on sustainable management of natural resources.",Optional,No,/schools/waterloo.png
+Environmental Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Applies engineering principles to environmental protection and sustainability.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Environmental Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, SCH4U, SBI4U, MHF4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Studies the interaction between biological, chemical, and physical components of the environment.",Optional,No,/schools/waterloo.png
+Fine Arts,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores visual arts through studio practice and art history.",Optional,No,/schools/waterloo.png
+French,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies the French language, literature, and culture.",Optional,No,/schools/waterloo.png
+Health Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",High 80s,88–91%,"Focuses on human health, disease prevention, and healthcare systems.",Optional,No,/schools/waterloo.png
+History,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Examines past events and their impact on the present and future.",Optional,No,/schools/waterloo.png
+Honours Arts and Business,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Mid 80s,85–88%,"Combines arts disciplines with business studies.",Optional,No,/schools/waterloo.png
+Honours Science,University of Waterloo,"$8,000 - $9,000","ENG4U, two of MHF4U, MCV4U, SCH4U, SPH4U, SBI4U, plus three other Grade 12 U/M courses",Mid 80s,85–88%,"Provides a comprehensive foundation in scientific principles and research.",Optional,No,/schools/waterloo.png
+Information Technology Management,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Bridges the gap between business and information technology.",Optional,No,/schools/waterloo.png
+Kinesiology,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",High 80s,88–91%,"Studies human movement and its impact on health and performance.",Optional,No,/schools/waterloo.png
+Knowledge Integration,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Mid 80s,85–88%,"Encourages interdisciplinary approaches to complex problems.",Optional,No,/schools/waterloo.png
+Legal Studies,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores the role of law in society and its impact on various issues.",Optional,No,/schools/waterloo.png
+Liberal Studies,University of Waterloo,"$8,000 - $9,000","ENG4U, plus five other Grade 12 U/M courses",Low 80s,80–83%,"Offers a broad-based education across multiple disciplines.",Optional,No,/schools/waterloo.png
+Life Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Studies living organisms and life processes.",Optional,No,/schools/waterloo.png
+Management Engineering,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U, plus one other Grade 12 U/M course",Mid to high 80s,85–90%,"Integrates engineering principles with management and business practices.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Materials and Nanosciences,University of Waterloo,"$8,000 - $9,000","ENG4U, SCH4U, MHF4U, plus three other Grade 12 U/M courses",Mid 80s,85–88%,"Studies the properties and applications of materials at the nanoscale.",Optional,No,/schools/waterloo.png
+Mathematical Economics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Combines mathematical methods with economic theory and analysis.",Optional,No,/schools/waterloo.png
+Mathematical Finance,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Applies mathematical models to financial markets and instruments.",Optional,No,/schools/waterloo.png
+Mathematical Optimization,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Focuses on finding the best solutions under given constraints.",Optional,No,/schools/waterloo.png
+Mathematical Physics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, SPH4U, plus two other Grade 12 U/M courses",85%+,Mid 80s,"Applies advanced mathematical methods to problems in physics.",Optional,No,/schools/waterloo.png
+Mathematical Studies,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",85%+,Mid 80s,"Provides a broad foundation in mathematical concepts and techniques.",Optional,No,/schools/waterloo.png
+Mathematics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Offers a comprehensive study of mathematical theories and applications.",Optional,No,/schools/waterloo.png
+Mathematics/Business Administration,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Combines mathematical studies with business and management principles.",Optional,No,/schools/waterloo.png
+Mathematics/Chartered Professional Accountancy,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",85%+,Mid 80s,"Integrates mathematics with accounting and financial management.",Optional,No,/schools/waterloo.png
+Nanotechnology Engineering,University of Waterloo,"$9,500","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",Mid to high 80s,85–90%,"Studies materials at the nanoscale to develop innovative technologies.",Yes,Yes (Admission Information Form),/schools/waterloo.png
+Optometry,University of Waterloo,"$9,500","Completion of at least 3 years of university-level science with specific prerequisites",75%+,Competitive,"Prepares students for careers in eye care and vision science.",No,Yes (CASPer test, interview, references),/schools/waterloo.png
+Peace and Conflict Studies,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores conflict resolution, peacebuilding, and social justice.",Optional,No,/schools/waterloo.png
+Pharmacy,University of Waterloo,"$9,500","Completion of at least 2 years of university-level science with specific prerequisites",75%+,Competitive,"Focuses on medication therapy and patient care.",Yes,Yes (CASPer test, interview, references),/schools/waterloo.png
+Philosophy,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Examines fundamental questions about existence, knowledge, and ethics.",Optional,No,/schools/waterloo.png
+Physical Sciences,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus two of Biology, Chemistry, Earth and Space Science, Mathematics of Data Management, or Physics",Low 80s,80–83%,"Provides a broad foundation in physical science disciplines.",Optional,No,/schools/waterloo.png
+Physics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus two of Biology, Chemistry, Earth and Space Science, Mathematics of Data Management, or Physics",Low 80s,80–83%,"Studies matter, energy, and the fundamental forces of nature.",Optional,No,/schools/waterloo.png
+Physics and Astronomy,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus two of Biology, Chemistry, Earth and Space Science, Mathematics of Data Management, or Physics",Low 80s,80–83%,"Combines physics with the study of celestial objects and phenomena.",Optional,No,/schools/waterloo.png
+Planning,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 75%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Focuses on urban and regional planning for sustainable communities.",Yes,No,/schools/waterloo.png
+Political Science,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Analyzes government systems, political behavior, and public policy.",Optional,No,/schools/waterloo.png
+Pre-law,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Provides a foundation for law school through various disciplines.",Optional,No,/schools/waterloo.png
+Psychology – Bachelor of Arts,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies human behavior, cognition, and emotion.",Optional,No,/schools/waterloo.png
+Psychology – Bachelor of Science,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus two of Biology, Chemistry, Earth and Space Science, Mathematics of Data Management, or Physics",Low 80s,80–83%,"Emphasizes the scientific study of psychological processes.",Optional,No,/schools/waterloo.png
+Public Health,University of Waterloo,"$8,000 - $9,000","ENG4U, SBI4U, SCH4U, MHF4U, plus two other Grade 12 U/M courses",Mid 80s,85–88%,"Focuses on population health, disease prevention, and health promotion.",Optional,No,/schools/waterloo.png
+Pure Mathematics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus one other Grade 12 U/M course",Mid 80s,85–88%,"Explores abstract mathematical theories and structures.",Optional,No,/schools/waterloo.png
+Recreation and Leisure Studies,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies the role of recreation in enhancing quality of life.",Optional,No,/schools/waterloo.png
+Recreation, Leadership and Health,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Combines recreation studies with leadership and health promotion.",Optional,No,/schools/waterloo.png
+Religion, Culture, and Spirituality,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Examines religious beliefs, cultural practices, and spiritual experiences.",Optional,No,/schools/waterloo.png
+Science and Aviation,University of Waterloo,"$8,000 - $9,000 (plus ~$93,000 flight training costs)","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Combines science studies with flight training to earn a Commercial Pilot Licence.",Co-op Only,Yes (flight training requirements),/schools/waterloo.png
+Science and Business,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Integrates scientific knowledge with business and management skills.",Optional,No,/schools/waterloo.png
+Sexualities, Relationships, and Families,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores human sexuality, interpersonal relationships, and family dynamics.",Optional,No,/schools/waterloo.png
+Social Development Studies,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Focuses on social issues, human development, and community engagement.",Optional,No,/schools/waterloo.png
+Social Work,University of Waterloo,"$8,000 - $9,000","Completion of a Bachelor's degree with specific prerequisites",75%+,Competitive,"Prepares students for professional practice in social work.",No,Yes (interview, references),/schools/waterloo.png
+Sociology,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Studies social behavior, institutions, and structures.",Optional,No,/schools/waterloo.png
+Sport and Recreation Management,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Combines sport studies with business and management principles.",Optional,No,/schools/waterloo.png
+Statistics,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, MCV4U, plus three other Grade 12 U/M courses",Mid 80s,85–88%,"Analyzes data to inform decision-making across various fields.",Optional,No,/schools/waterloo.png
+Sustainability and Financial Management,University of Waterloo,"$8,000 - $9,000","ENG4U, MHF4U, plus four other Grade 12 U/M courses",Mid 80s,85–88%,"Integrates environmental sustainability with financial practices.",Optional,No,/schools/waterloo.png
+Systems Design Engineering,University of Waterloo,"$9,500","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",Mid to high 80s,85–90%,"Focuses on designing complex systems integrating various engineering disciplines.",Co-op Only,Yes (Admission Information Form),/schools/waterloo.png
+Teaching,University of Waterloo,"$8,000 - $9,000","Completion of a Bachelor's degree with specific prerequisites",75%+,Competitive,"Prepares students for careers in education and teaching.",No,Yes (interview, references),/schools/waterloo.png
+Theatre and Performance,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Explores acting, directing, and production in theatre arts.",Optional,No,/schools/waterloo.png
+Therapeutic Recreation,University of Waterloo,"$8,000 - $9,000","ENG4U (minimum 70%), plus five other Grade 12 U/M courses",Low 80s,80–83%,"Uses recreation and leisure activities to improve well-being.",Optional,No,/schools/waterloo.png
+
+Engineering Science,University of Toronto,"$14,500","ENG4U, MHF4U, MCV4U, SPH4U, SCH4U",92%+,90–97%,"A highly competitive and interdisciplinary engineering program at U of T.",No,Yes,/schools/uoft.png
+Life Sciences,University of Toronto,"$8,000","ENG4U, SBI4U, SCH4U",88%+,85–94%,"Explores biology, chemistry, and health sciences.",No,No,/schools/uoft.png
+Rotman Commerce,University of Toronto,"$17,500","ENG4U, one 4U Math",91%+,88–95%,"Top-ranked business program with global opportunities.",No,Yes,/schools/uoft.png
+Computer Science,University of Toronto,"$9,000","ENG4U, MHF4U, MCV4U",92%+,90–96%,"Study programming, algorithms, and theory at Canada's largest CS school.",No,No,/schools/uoft.png
+
+Health Sciences,McMaster University,"$12,000","ENG4U, SBI4U, SCH4U",95%,94–98%,"Highly competitive program focused on medical and health-related research.",No,Yes,/schools/mcmaster.png
+Software Engineering,McMaster University,"$10,200","ENG4U, MHF4U, MCV4U, SPH4U",90%,88–94%,"Prepares students to develop large-scale software systems.",Yes,Yes,/schools/mcmaster.png
+Integrated Biomedical Engineering & Health Sciences,McMaster University,"$11,500","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",92%+,90–96%,"Interdisciplinary program combining engineering and health sciences.",Yes,Yes,/schools/mcmaster.png
+Business Administration,McMaster University,"$9,800","ENG4U, one 4U Math",88%+,85–92%,"Focuses on business fundamentals and leadership.",No,No,/schools/mcmaster.png
+
+Mechanical Engineering,Western University,"$9,700","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",88%+,85–92%,"Covers design, manufacturing, and mechanics of machines.",Yes,No,/schools/western.png
+Medical Sciences,Western University,"$8,800","ENG4U, SBI4U, SCH4U",92%+,90–96%,"Prepares students for health professions and research.",No,No,/schools/western.png
+Ivey HBA (Business),Western University,"$24,000","ENG4U, one 4U Math",90%+,87–95%,"Prestigious business program with case-based learning.",No,Yes,/schools/western.png
+Psychology,Western University,"$7,900","ENG4U",85%+,82–90%,"Study human behaviour, cognition, and mental health.",No,No,/schools/western.png
+
+Commerce,Queen's University,"$17,000","ENG4U, one 4U Math",88%+,85–95%,"Queen’s Commerce offers elite business education and global networking.",No,Yes,/schools/queens.png
+Health Sciences,Queen's University,"$11,000","ENG4U, SBI4U, SCH4U",92%+,90–96%,"Interdisciplinary health program with research opportunities.",No,Yes,/schools/queens.png
+Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",90%+,88–95%,"Broad-based first year with specialization in upper years.",No,No,/schools/queens.png
+Life Sciences,Queen's University,"$8,200","ENG4U, SBI4U, SCH4U",88%+,85–92%,"Explores biology, chemistry, and health sciences.",No,No,/schools/queens.png
+Animation Theory and Practice (Certificate),Queen's University,"$7,423","ENG4U",N/A,N/A,"Study animation in an interdisciplinary context, embracing hybrid and experimental approaches.",No,No,/schools/queens.png
+Applied Economics,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Analyze economic issues and policies affecting society.",No,No,/schools/queens.png
+Art History,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore visual and material cultures and their impact on human societies.",No,No,/schools/queens.png
+Astrophysics,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SPH4U",N/A,N/A,"Study the physics of the universe, including stars, galaxies, and cosmology.",No,No,/schools/queens.png
+Biochemistry,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SCH4U",N/A,N/A,"Examine the chemical processes within and related to living organisms.",No,No,/schools/queens.png
+Biology,Queen's University,"$7,423","ENG4U, MHF4U, SBI4U",N/A,N/A,"Study living organisms, their structure, function, growth, and evolution.",No,No,/schools/queens.png
+Biology and Mathematics,Queen's University,"$7,423","ENG4U, MHF4U, SBI4U",N/A,N/A,"Combine studies in biology and mathematics to understand biological systems.",No,No,/schools/queens.png
+Biology and Psychology,Queen's University,"$7,423","ENG4U, MHF4U, SBI4U",N/A,N/A,"Integrate biological sciences with psychological studies.",No,No,/schools/queens.png
+Biomedical Computing,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SCH4U",N/A,N/A,"Apply computational techniques to biomedical problems.",No,No,/schools/queens.png
+Chemistry,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SCH4U",N/A,N/A,"Study the composition, structure, properties, and change of matter.",No,No,/schools/queens.png
+Classics and Archaeology,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore ancient civilizations through literature and material culture.",No,No,/schools/queens.png
+Classical Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study ancient Greek and Roman languages, literature, and history.",No,No,/schools/queens.png
+Cognitive Science,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Interdisciplinary study of the mind and its processes.",No,No,/schools/queens.png
+Computer Science,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Study computation, algorithms, and information processing.",No,No,/schools/queens.png
+Computing,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Focus on software development and computational theory.",No,No,/schools/queens.png
+Computing and the Creative Arts,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Combine computing with studies in the creative arts.",No,No,/schools/queens.png
+Computing, Mathematics, and Analytics,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Integrate computing, mathematics, and data analytics.",No,No,/schools/queens.png
+Concurrent Education (Arts, French, Kinesiology, Music, Science),Queen's University,"$7,423","ENG4U, plus program-specific prerequisites",N/A,N/A,"Pursue a teaching qualification alongside another undergraduate degree.",No,Yes,/schools/queens.png
+Data Analytics (Certificate),Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Learn to analyze and interpret complex data sets.",No,No,/schools/queens.png
+Disability and Physical Activity (Certificate),Queen's University,"$7,423","ENG4U",N/A,N/A,"Focus on inclusive physical activity for individuals with disabilities.",No,No,/schools/queens.png
+Drama,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study performance, theatre history, and production.",No,No,/schools/queens.png
+Earth Systems Science,Queen's University,"$7,423","ENG4U, MHF4U, SCH4U, SPH4U",N/A,N/A,"Examine Earth's physical and chemical systems.",No,No,/schools/queens.png
+Economics,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Analyze economic behavior and policy.",No,No,/schools/queens.png
+Employment Relations,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study labor relations and human resource management.",No,No,/schools/queens.png
+English Language and Literature,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore English literature and language studies.",No,No,/schools/queens.png
+Environmental Science,Queen's University,"$7,423","ENG4U, MHF4U, SCH4U",N/A,N/A,"Study environmental systems and issues.",No,No,/schools/queens.png
+Environmental Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Interdisciplinary study of environmental challenges.",No,No,/schools/queens.png
+Film and Media,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study film theory, history, and production.",No,No,/schools/queens.png
+French Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study French language, literature, and culture.",No,No,/schools/queens.png
+Gender Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Examine gender and its intersections with other identities.",No,No,/schools/queens.png
+Geography,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Study spatial relationships and human-environment interactions.",No,No,/schools/queens.png
+Geological Sciences,Queen's University,"$7,423","ENG4U, MHF4U, SCH4U, SPH4U",N/A,N/A,"Study Earth's physical structure and substances.",No,No,/schools/queens.png
+Global Development Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Examine global issues and development processes.",No,No,/schools/queens.png
+Health Studies,Queen's University,"$7,423","ENG4U, SBI4U",N/A,N/A,"Study health from a social science perspective.",No,No,/schools/queens.png
+History,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore historical events and their impacts.",No,No,/schools/queens.png
+Indigenous Knowledge and Perspectives,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study Indigenous worldviews and knowledge systems.",No,No,/schools/queens.png
+Italian,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study Italian language and culture.",No,No,/schools/queens.png
+Jewish Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore Jewish history, culture, and religion.",No,No,/schools/queens.png
+Kinesiology,Queen's University,"$7,423","ENG4U, MHF4U, SBI4U",N/A,N/A,"Study human movement and physical activity.",No,No,/schools/queens.png
+Languages, Literatures, and Cultures,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore various languages and their cultural contexts.",No,No,/schools/queens.png
+Linguistics,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study the structure and function of language.",No,No,/schools/queens.png
+Mathematics,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Study mathematical theories and applications.",No,No,/schools/queens.png
+Mathematical Physics,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SPH4U",N/A,N/A,"Combine studies in mathematics and physics.",No,No,/schools/queens.png
+Media and Performance Production,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study media production and performance arts.",No,No,/schools/queens.png
+Music,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study music theory, history, and performance.",No,Yes,/schools/queens.png
+Music Theatre,Queen's University,"$7,423","ENG4U",N/A,N/A,"Combine studies in music and theatre performance.",No,Yes,/schools/queens.png
+Philosophy,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study fundamental questions about existence, knowledge, and ethics.",No,No,/schools/queens.png
+Physics,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U, SPH4U",N/A,N/A,"Explore the principles governing matter, energy, and the universe.",No,No,/schools/queens.png
+Politics, Philosophy, and Economics (PPE),Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Interdisciplinary study combining political science, philosophy, and economics.",No,No,/schools/queens.png
+Political Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Analyze political systems, behavior, and institutions.",No,No,/schools/queens.png
+Psychology,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Study human behavior and mental processes.",No,No,/schools/queens.png
+Religious Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Examine religious beliefs, practices, and their impact on society.",No,No,/schools/queens.png
+Sociology,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study social behavior, institutions, and structures.",No,No,/schools/queens.png
+Software Design,Queen's University,"$7,423","ENG4U, MHF4U, MCV4U",N/A,N/A,"Focus on the principles and practices of software development.",No,No,/schools/queens.png
+Spanish and Latin American Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Study Spanish language and Latin American cultures.",No,No,/schools/queens.png
+Statistics,Queen's University,"$7,423","ENG4U, MHF4U",N/A,N/A,"Analyze data and apply statistical methods to real-world problems.",No,No,/schools/queens.png
+World Language Studies,Queen's University,"$7,423","ENG4U",N/A,N/A,"Explore various world languages and their cultural contexts.",No,No,/schools/queens.png
+Chemical Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Apply chemical principles to design and operate processes.",Yes,No,/schools/queens.png
+Civil Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Design and construct infrastructure projects.",Yes,No,/schools/queens.png
+Computer Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Develop computer systems and hardware-software integration.",Yes,No,/schools/queens.png
+Electrical Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Study electrical systems and their applications.",Yes,No,/schools/queens.png
+Engineering Chemistry,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Combine chemical engineering with advanced chemistry.",Yes,No,/schools/queens.png
+Engineering Physics,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Apply physics concepts to engineering problems.",Yes,No,/schools/queens.png
+Geological Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Focus on the engineering aspects of geology.",Yes,No,/schools/queens.png
+Mathematics and Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Integrate mathematical theory with engineering applications.",Yes,No,/schools/queens.png
+Mechanical and Materials Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Study mechanical systems and material properties.",Yes,No,/schools/queens.png
+Mechatronics and Robotics Engineering,Queen's University,"$13,000","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",N/A,N/A,"Combine mechanical, electrical, and computer engineering.",Yes,No,/schools/queens.png
+Nursing (Bachelor of Nursing Science),Queen's University,"$7,423","ENG4U, SBI4U, SCH4U",N/A,N/A,"Prepare for a career in nursing with clinical experience.",No,Yes,/schools/queens.png
+Concurrent Education,Queen's University,"$7,423","ENG4U, plus program-specific prerequisites",N/A,N/A,"Earn a teaching qualification alongside another degree.",No,Yes,/schools/queens.png
+
+
+Political Science,Carleton University,"$7,900",ENG4U,83%,80–87%,"Study government systems, public policy, and international relations.",No,No,/schools/carleton.png
+Journalism,Carleton University,"$8,200","ENG4U",85%+,82–90%,"Canada’s top journalism school with hands-on experience.",No,Yes,/schools/carleton.png
+Computer Science,Carleton University,"$8,000","ENG4U, MHF4U",86%+,83–92%,"Focuses on programming, algorithms, and software development.",Yes,No,/schools/carleton.png
+Mechanical Engineering,Carleton University,"$8,500","ENG4U, MHF4U, MCV4U, SPH4U",85%+,82–90%,"Design and build mechanical systems and devices.",Yes,No,/schools/carleton.png
+
+Biomedical Science,University of Ottawa,"$8,900","ENG4U, SBI4U, SCH4U",89%,86–92%,"Combines biology and medicine to explore health and disease.",No,No,/schools/uottawa.png
+Mechanical Engineering,University of Ottawa,"$9,600","ENG4U, MHF4U, MCV4U, SPH4U",88%,85–91%,"Focuses on the design and manufacturing of mechanical systems.",Yes,No,/schools/uottawa.png
+Civil Law,University of Ottawa,"$13,000","ENG4U, one 4U Math",90%+,87–95%,"Canada’s only English-French common and civil law program.",No,Yes,/schools/uottawa.png
+Psychology,University of Ottawa,"$7,800","ENG4U",85%+,82–90%,"Study human behaviour, cognition, and mental health.",No,No,/schools/uottawa.png
+
+Business Administration,Wilfrid Laurier University,"$8,500","ENG4U, MHF4U",87%,83–90%,"Offers a balance of business theory and practical experience.",Yes,No,/schools/laurier.png
+Financial Mathematics,Wilfrid Laurier University,"$8,700","ENG4U, MHF4U, MCV4U",88%+,85–92%,"Combines math, statistics, and finance for analytical careers.",Yes,No,/schools/laurier.png
+Psychology,Wilfrid Laurier University,"$7,900","ENG4U",83%+,80–87%,"Study mental processes, behaviour, and research methods.",No,No,/schools/laurier.png
+Health Sciences,Wilfrid Laurier University,"$8,000","ENG4U, SBI4U, SCH4U",88%+,85–92%,"Prepares students for health professions and research.",No,No,/schools/laurier.png
+
+Biomedical Science,University of Guelph,"$8,700","ENG4U, SBI4U, SCH4U",89%,86–92%,"Combines biology and medicine to explore health and disease.",No,No,/schools/guelph.png
+Engineering,University of Guelph,"$9,200","ENG4U, MHF4U, MCV4U, SCH4U, SPH4U",87%+,84–91%,"Focuses on problem-solving and hands-on engineering design.",Yes,No,/schools/guelph.png
+Psychology,University of Guelph,"$7,900","ENG4U",83%+,80–87%,"Study human behaviour, cognition, and mental health.",No,No,/schools/guelph.png
+Commerce,University of Guelph,"$8,600","ENG4U, one 4U Math",85%+,82–90%,"Business program with a focus on innovation and entrepreneurship.",No,No,/schools/guelph.png
